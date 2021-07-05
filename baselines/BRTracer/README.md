@@ -1,0 +1,2 @@
+- The authors of BRTracer have provided a replication package [here](http://brtracer.sourceforge.net/).
+- Lee et al. have also shared another reorganized version via [Bench4BL](https://github.com/exatoa/Bench4BL).
