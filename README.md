@@ -12,6 +12,7 @@ This repository includes the code and experimental data in our paper entitled "D
 + pytorch 1.3.1<br>
 + lizard 1.17.3<br>
 + numpy 1.17.4<br>
++ sent2vec<br>
 + GPU with CUDA support is also needed
 
 ### How to install
