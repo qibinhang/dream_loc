@@ -2,7 +2,7 @@
 
 ### How to train
 1. `mkdir data`
-2. download the [dataset and pre-trained models(password: a7mk)](https://pan.baidu.com/s/1GbRuhTE1memK1QkoaVUiDw) into the floder `data`
+2. download the [dataset and pre-trained models(password: 8qlg)](https://pan.baidu.com/s/1RiqcSSE2iOqOpPWSwWlGuA) into the floder `data`
 3. `cd data`
 4. `tar xvf data.tar`
 5. `cd src`
