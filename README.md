@@ -16,6 +16,8 @@ This repository includes the code and experimental data in our paper entitled "D
 
 ### How to install
 Install the dependent packages via pip:
+
     $ pip install pandas==0.24.2 gensim==3.7.2 scikit-learn==0.20.1 lizard==1.17.3 numpy==1.17.4
+    
 Install pytorch according to your environment, see https://pytorch.org/.
 Install Sent2vec according to the [documentation](https://github.com/epfml/sent2vec).
