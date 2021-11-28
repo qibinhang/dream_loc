@@ -26,7 +26,7 @@ Install Sent2vec according to the [documentation](https://github.com/epfml/sent2
 
 ### How to train
 1. `mkdir data`
-2. download the [dataset and pre-trained models(password: 8qlg)](https://pan.baidu.com/s/1RiqcSSE2iOqOpPWSwWlGuA) into the floder `data`
+2. download the [dataset and pre-trained models(password: 8v4r)](https://pan.baidu.com/s/1KzHqisbjfzL1J10lLsaZyA) into the floder `data`
 3. `cd data`
 4. `tar xvf data.tar`
 5. `cd src`
